@@ -1,0 +1,36 @@
+_repo: Famous-Men-of-the-Middle-Ages_3725
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Poland, Addison B.
+    alias: Poland, A. B. (Addison B.)
+    gutenberg_agent_id: '1278'
+    url: http://www.gutenberg.org/2009/agents/1278
+  - agent_name: Haaren, John H. (John Henry)
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '1277'
+    url: http://www.gutenberg.org/2009/agents/1277
+description: Cover; Title Page; Copyright Page; Table of Contents; The Gods of the
+  Teutons; The Nibelungs; Alaric the Visigoth King; Attila the Hun King; Genseric
+  the Vandal King; Theodoric the Ostrogoth King; Clovis King; Justinian the Great
+  Emperor; Mohammed; Charles Martel, 714-741 A.D. & Pepin, 741-768 A.D.; Charlemagne
+  King; Harun-Al-Rashid Caliph; Egbert King; Rollo the Viking; Alfred the Great King;
+  Henry the Fowler King; Canute the Great King; The Cid; Edward the Confessor King;
+  William the Conqueror King; Peter the Hermit; Frederick Barbarossa Emperor.
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Europe -- History -- 476-1492'
+- !lcsh 'Europe -- Biography'
+- GITenberg
+title: Famous Men of the Middle Ages
+url: http://www.gutenberg.org/ebooks/3725
