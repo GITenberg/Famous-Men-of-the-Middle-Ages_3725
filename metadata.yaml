@@ -1,5 +1,8 @@
 _repo: Famous-Men-of-the-Middle-Ages_3725
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Poland, Addison B.
@@ -18,6 +21,8 @@ description: Cover; Title Page; Copyright Page; Table of Contents; The Gods of t
   King; Harun-Al-Rashid Caliph; Egbert King; Rollo the Viking; Alfred the Great King;
   Henry the Fowler King; Canute the Great King; The Cid; Edward the Confessor King;
   William the Conqueror King; Peter the Hermit; Frederick Barbarossa Emperor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3725#Famous-Men-of-the-Middle-Ages
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
